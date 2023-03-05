@@ -1,5 +1,5 @@
 # Takeafew
-CMPG212 Assignment
+## CMPG212 Assignment
 ==========
 
 #### Ecommerce platform
@@ -18,12 +18,12 @@ Powered by ASP.NET Framework
  
  ---
  
- ## Usage
+ ### Usage
  
  To be updated
 
 ---
 
-## License
+### License
 
 This project is licensed under the terms of the **MIT** license.
